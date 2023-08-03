@@ -1,6 +1,6 @@
 # JSF CRUD
 
-A simple CRUD app for users management using JSF.
+A simple CRUD app for user management using JSF.
 
 ## URL
 * http://localhost:8080/jsfcrud/views/users/index.xhtml
@@ -8,7 +8,6 @@ A simple CRUD app for users management using JSF.
 ## Requirements
 
 * OpenJDK 11
-* Netbeans 11.3
 * Payara Server 5.194
 * Java DB (embedded)
 
